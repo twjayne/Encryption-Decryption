@@ -1,5 +1,5 @@
 # Encryption-Decryption
-Implementation of Encryption-Decryption project on hyperskill.org
+Implementation of Encryption-Decryption project on hyperskill.org (https://hyperskill.org/projects/46?goal=7)
 
 Main work in https://github.com/twjayne/Encryption-Decryption/blob/master/Encryption-Decryption/task/src/encryptdecrypt/Main.java
 
